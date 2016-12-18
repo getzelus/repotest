@@ -1,4 +1,3 @@
 # repotest
-This is my first repo.
-hehe
-modified from github
+This is my first repo for testing.
+I present a webpage.
